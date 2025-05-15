@@ -43,10 +43,9 @@ Demineur/
 ├── App.xaml.cs
 ├── MainWindow.xaml
 ├── MainWindow.xaml.cs
-├── Partie.cs
-├── Case.cs
 ├── meilleurs_temps.txt (non inclus sur GitHub)
-├── Demineur.csproj
+├── Minesweeper.csproj
+├── MinesweeperWPF.sln
 └── ...
 ```
 ## ✍️ Auteur
